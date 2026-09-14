@@ -29,3 +29,8 @@ LET IT DIE Custom Launcher v2.3
 - Verificacion SHA-256 completa y reintento si el origen cambia al copiar.
 - Espejo automatico y verificado en Google Drive for desktop.
 - Sincronizacion de current save y de todos los historicos que falten.
+Licensing update
+----------------
+- Added GNU GPL v3.0-only licensing.
+- Added SrFrogo copyright and original-authorship notices.
+- Added SPDX identifiers to the executable scripts.

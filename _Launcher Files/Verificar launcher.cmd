@@ -1,4 +1,6 @@
 @echo off
+rem SPDX-License-Identifier: GPL-3.0-only
+rem Copyright (C) 2026 SrFrogo
 chcp 65001 >nul
 title Verificar LET IT DIE Custom Launcher v2.3
 
