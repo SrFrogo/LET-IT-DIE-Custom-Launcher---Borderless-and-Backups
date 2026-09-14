@@ -1,4 +1,6 @@
 Option Explicit
+' SPDX-License-Identifier: GPL-3.0-only
+' Copyright (C) 2026 SrFrogo
 
 Dim shell, fileSystem, rootFolder, powershellPath, launcherPath, command, waitForExit
 Set shell = CreateObject("WScript.Shell")

@@ -4,6 +4,9 @@
 > background or in an optional console window. / El launcher funciona en
 > segundo plano o, de forma opcional, en una consola.
 
+**Original project and copyright / Proyecto original y derechos de autor:**
+Copyright © 2026 **SrFrogo**.
+
 ## English — Quick instructions
 
 ### Start the game
@@ -83,3 +86,23 @@ Google Drive es opcional. Los backups locales verificados funcionan sin él.
 Advanced files, configuration and diagnostic tools are stored inside
 `_Launcher Files`. This community project is not affiliated with SUPERTRICK
 GAMES, GungHo Online Entertainment, Steam or Google.
+
+---
+
+## License and authorship / Licencia y autoría
+
+This project is free software licensed under **GNU GPL v3.0 only**
+(`GPL-3.0-only`). You may use, study, modify and redistribute it under the
+terms of the included [`LICENSE`](LICENSE) file. Distributed modified versions
+must keep the copyright and license notices and must not be presented as the
+original work of, or as officially endorsed by, SrFrogo.
+
+Este proyecto es software libre publicado bajo **GNU GPL v3.0 únicamente**
+(`GPL-3.0-only`). Puedes usarlo, estudiarlo, modificarlo y redistribuirlo bajo
+los términos del archivo [`LICENSE`](LICENSE) incluido. Las versiones
+modificadas que se distribuyan deben conservar los avisos de copyright y
+licencia y no deben presentarse como la obra original de SrFrogo ni como una
+versión respaldada oficialmente por él.
+
+See [`AUTHORS.md`](AUTHORS.md) for the original authorship record. / Consulta
+[`AUTHORS.md`](AUTHORS.md) para ver el registro de autoría original.
