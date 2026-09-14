@@ -1,0 +1,31 @@
+LET IT DIE Custom Launcher v2.3
+================================
+
+- Public package identified as a No GUI version / Paquete publico identificado
+  como version sin interfaz grafica.
+- Root folder simplified to the hidden start, console start, Drive configurator
+  and bilingual README; support files moved into _Launcher Files.
+
+- Nuevo inicio normal mediante "Iniciar LET IT DIE.vbs", completamente oculto.
+- El atajo Ctrl+Alt+F11 y los backups siguen activos en segundo plano.
+- Agregado "Iniciar con consola (diagnostico).cmd" para mostrar los mensajes
+  solamente cuando se necesiten.
+
+- Nuevo modo manual sin vigilancia continua para eliminar el parpadeo.
+- Ctrl+Alt+F11 aplica borderless una sola vez cuando el juego ya esta estable.
+- El atajo se puede repetir si una transicion devuelve el juego a modo ventana.
+- Nuevo BORDERLESS_MODE=manual como opcion predeterminada.
+- Modo automatico opcional de una sola aplicacion con BORDERLESS_MODE=once.
+- El antiguo bloqueo continuo queda disponible como lock, con advertencia, pero
+  ya no se activa de forma predeterminada.
+- La prueba del launcher ahora valida el metodo de una sola aplicacion.
+- Se mantienen el modo ventana, la resolucion nativa y la deteccion del archivo
+  BrgGraphicsConfig.ini creado despues del primer arranque.
+
+- Corregido el configurador de Google Drive para conservar lineas vacias y
+  aceptar rutas con espacios.
+- Backup local por staging: la version verificada anterior se conserva si la
+  copia nueva falla.
+- Verificacion SHA-256 completa y reintento si el origen cambia al copiar.
+- Espejo automatico y verificado en Google Drive for desktop.
+- Sincronizacion de current save y de todos los historicos que falten.

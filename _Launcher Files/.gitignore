@@ -1,0 +1,4 @@
+launcher.log
+*.before-custom-launcher
+*.tmp
+*.partial
